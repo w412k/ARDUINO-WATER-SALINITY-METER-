@@ -14,3 +14,7 @@ Clear and easy-to-read display of salinity readings on an LCD screen
 This project serves as a foundation for water quality monitoring systems, aquarium management, hydroponics, and other applications where salinity measurement is crucial. The code and schematics provided can be easily customized and expanded upon to suit specific needs. 
 
 Get started with salinity measurement using the TDS sensor and Arduino by cloning this repository and following the provided documentation. Start exploring the fascinating world of water salinity monitoring today!
+
+![MICROCONTROLLER](https://github.com/w412k/ARDUINO-WATER-SALINITY-METER-/assets/93298291/d1780cbc-440c-40a8-b668-0d895cba5074)
+
+
